@@ -1,6 +1,1 @@
-print('hello world')
-
-
-test = 1
-if test == 1:
-    print('test is 1')
+# 求平方根
